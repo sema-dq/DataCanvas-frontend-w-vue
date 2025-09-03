@@ -1,0 +1,15 @@
+{
+    "name": "datacanvas",
+    "private": true,
+    "version": "1.0.0",
+    "type": "module",
+    "scripts": {
+      "dev": "vite",
+      "build": "vite build"
+    },
+    "dependencies": {
+      "@vitejs/plugin-vue": "^5.0.5",
+      "vue": "^3.4.29",
+      "vite": "^5.3.1"
+    }
+  }
